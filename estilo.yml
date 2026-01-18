@@ -1,0 +1,10 @@
+name: 'synthverse'
+version: '1.0.0'
+license: 'MIT'
+author: ''
+url: ''
+description: ''
+colorschemes:
+  - name: synthverse
+    background: 'dark'
+    palette: synthverse
